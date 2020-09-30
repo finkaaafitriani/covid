@@ -71,7 +71,6 @@
                             Jalan Warung Buncit Raya No. 150, Mampang Prapatan, 
                             RT.5/RW.2, Duren Tiga, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12760, Indonesia
                         </p>
-                    
                     </div>
                 </div>
             </div
